@@ -51,6 +51,10 @@ ReactDOM.render(<App />, document.getElementById("root"));
 
 https://www.youtube.com/playlist?list=PLd80C6PYpI-AnA6O9tYwS9gUrQfoVZ41k
 
+[Codepen: обзор и полезные советы по использованию](https://www.youtube.com/watch?v=CIWf_pwUfoc)
+
 ## Аккаунти
 
 https://codepen.io/Hyperplexed
+
+https://codepen.io/goit-academy

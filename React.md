@@ -4,6 +4,15 @@ https://react.dev/learn
 
 [Спостереження за розвитком React-у](https://tigerabrodi.blog/reacts-evolution-from-hooks-to-concurrent-react)
 
+## youtube
+
+- [Архітектура (React, Redux)](https://www.youtube.com/watch?app=desktop&v=MPg4vq9ZVCM)
+- [РАЗРАБОТКА ИГРЫ с НУЛЯ за 10 часов! [React / TS / Zustand]](https://www.youtube.com/watch?v=T-pA-wW8yJk)
+
+## Статті
+
+### хуки
+
 Появившиеся в React 16.8 хуки позволяют использовать состояние и прочие возможности библиотеки без написания классов. В небольшом обзоре приводятся 15 наиболее полезных из них: https://proglib.io/p/15-kastomnyh-hukov-dlya-oblegcheniya-komponentov-react-2021-08-11
 
 ### Создаем чат в реальном времени с помощью React, Node, Socket.io и HarperDB
