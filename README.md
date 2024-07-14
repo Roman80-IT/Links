@@ -8,6 +8,8 @@
 - [iTGid (WebDev с нуля. Канал Алекса Лущенко)](https://itgid.info/ua/course/html)
   https://web-developer.in.ua/assets/lessons/html-css/freelancer/freelancer.html
 
+[Learn to Code - w3schools](https://www.w3schools.com/)
+
 ## youtube:
 
 - [WebDev с нуля. Канал Алекса Лущенко](https://www.youtube.com/@itgid)
@@ -19,9 +21,7 @@ https://react-mentor.notion.site/efda912aa68b40b5911798ba731df303
 
 ## React:
 
-https://react.dev/learn
-
-[Спостереження за розвитком React-у](https://tigerabrodi.blog/reacts-evolution-from-hooks-to-concurrent-react)
+[React](React.md)
 
 ## Збірки:
 
